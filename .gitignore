@@ -39,6 +39,16 @@ temp/
 *.swo
 *~
 
+# Document files
+*.csv
+*.xlsx
+*.xls
+*.pdf
+*.doc
+*.docx
+*.txt
+*.json
+
 # OS specific files
 .DS_Store
 Thumbs.db
