@@ -1,0 +1,6 @@
+{
+  "name": "pdftableparser",
+  "version": "0.1.1",
+  "description": "PDF table extractor using Claude Vision API",
+  "private": true
+}
